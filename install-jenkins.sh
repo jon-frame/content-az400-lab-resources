@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # zip
+sudo apt-get update
 sudo apt install -y zip
 
 # nodejs and npm
